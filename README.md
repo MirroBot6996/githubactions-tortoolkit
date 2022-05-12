@@ -13,8 +13,6 @@ GH_TOKEN :- Your github personal access token, from https://github.com/settings/
 REPO :- Your Secret Repository, as in "<username>/<reponame>"
 GHUSER:- Your GitHub UserName
 GHMAIL:- You GitHub Email Address
-Docker_Username:- Your DockerHub Username
-Docker_Password:- Your DockerHub Password
 ```
 
 And That's it.
