@@ -39,7 +39,7 @@ jobs:
         continue-on-error: true
         timeout-minutes: 350
         run: |
-          docker run --privileged --rm -i mirror-bot
+          docker run --privileged --rm -i userge
 
       - name: Loop Workflow
         continue-on-error: true
